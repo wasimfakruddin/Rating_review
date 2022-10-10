@@ -42,7 +42,7 @@ body {
     justify-content: space-evenly;
 }
 
-#star1,#star2,#star3,#star4,#star5 {
+.star{
     border: none;
     color:white;
     opacity: 50%;
@@ -55,19 +55,7 @@ body {
     cursor:pointer;
 }
 
-#star1:hover {
-    opacity: 100%;
-}
-#star2:hover {
-    opacity: 100%;
-}
-#star3:hover {
-    opacity: 100%;
-}
-#star4:hover {
-    opacity: 100%;
-}
-#star5:hover {
+.star:hover {
     opacity: 100%;
 }
 
