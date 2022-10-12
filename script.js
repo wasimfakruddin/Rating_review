@@ -42,7 +42,3 @@ submit.addEventListener("click", () => {
   ratedstar.style.display = "block";
   image.style.display = "block";
 });
-
-
-
-
